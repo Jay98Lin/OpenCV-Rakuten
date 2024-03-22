@@ -1,7 +1,4 @@
-openCV作業
-用以下手法做影像處理:
-
-OpenCV做影像處理:  
+OpenCV用以下手法做影像處理:  
 1.顏色空間轉換 color_space_conversion  
 2.閾值處理 thresholding  
 3.平滑和模糊 smoothing  
