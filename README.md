@@ -1,4 +1,5 @@
-OpenCV用以下手法做影像處理:  
+## OpenCV做以下15種影像處理技術:  
+
 1.顏色空間轉換 color_space_conversion  
 2.閾值處理 thresholding  
 3.平滑和模糊 smoothing  
@@ -15,5 +16,5 @@ OpenCV用以下手法做影像處理:
 14.偽色彩 pseudocolor  
 15.透視變換 perspective_transformation  
 
-成果影片：
+### 成果影片：
 https://youtu.be/CdsP42x_XL8?si=29qzXj1igaD9S8bl
